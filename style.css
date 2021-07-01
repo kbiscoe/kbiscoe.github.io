@@ -1,0 +1,85 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+summary {
+  color:crimson;
+}
+body {
+ background-color: #F0FFF0;  
+  font-family: 'Times New Roman', sans-serif ;
+  font-size: 20px;
+  text-align: left; 
+  color:#006400;
+  padding-bottom: 1.5cm;
+  padding-left: 1.5cm;
+  padding-right:1.5cm;
+}
+img {
+  max-width: 43%;
+  border: 3px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  margin-top: 7em;
+  margin-bottom: 5em; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  background-color: #F0FFF0;
+  color: #006400;
+  font-size: 1.2cm;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  text-align: center;
+}
+h3 {
+  background-color: #F0FFF0;
+  color: #006400;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
+  text-align: left;
+}
+p{
+  text-align: left;
+}
+
+
+
+ul {
+  margin: 0px
+  list-style-type: none;
+  text-align:center;
+  background-color: #006400 ;
+  overflow: hidden;
+  padding: 15px;
+}
+
+li {
+  display: -webkit-inline-box;
+}
+
+li a {
+  text-decoration: none; 
+  color: #F0FFF0;
+  font-size: 0.5cm;
+  padding: .5em 2em;
+  background-color: #006400
+}
+
+
+li a:hover {
+  color: lavender;
+}
+
+
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
